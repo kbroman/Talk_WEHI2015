@@ -1,6 +1,6 @@
 ### Talk on &ldquo;Interactive graphics for high-dimensional genetic data&rdquo;
 
-These are slides for a talk that I will give at
+These are slides for a talk that I gave at
 [WEHI](http://www.wehi.edu.au/) in Melbourne, Australia, on 1 Apr 2015.
 
 See them in action [here](https://www.biostat.wisc.edu/~kbroman/presentations/WEHI2015).
